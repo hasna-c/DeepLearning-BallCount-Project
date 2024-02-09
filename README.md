@@ -9,4 +9,6 @@ The objective of this project is to count juggling football using YOLOv8 object 
 
 ## Demo Video
 
-[Watch Juggling Football Counter Result](dataset/juggling3_result.mp4)
+<video width="640" height="360" controls>
+  <source src="dataset/juggling3_result.mp4" type="video/mp4">
+</video>
