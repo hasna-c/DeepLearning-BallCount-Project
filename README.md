@@ -8,4 +8,6 @@ The objective of this project is to count juggling football using YOLOv8 object 
 
 
 ## Demo Video
+
+Result of Juggling counter video demo
 ![Result of Juggling counter video demo](result.gif)
